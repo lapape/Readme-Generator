@@ -1,40 +1,35 @@
-# saldjfaksdfj
+# Readme Generator
+  
 
-  ## Description
+## Description
   
-  a;gjdslkgjf
+A series of prompts in node js that generates a readme with your responses.
   
-  ## Table of Contents
+## Table of Contents
   
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
   
-  ## Installation
+## Installation
   
-  laksdjfklasdjg
+Download files and run node index.js
   
-  ## Usage
+## Usage
   
-  lasjdgfkldsjg
-  
-  ## License 
+Answer the prompts and hit enter.
 
   
-  ![MIT](https://img.shields.io/badge/LICENSE-MIT-blue) 
-
+## Contributing
   
-  ## Contributing
+Study group: Jared Sutch, Joshua Lee, Alex Jurgs, Chip Long, and Tarik Maggio.
   
-  dlsagf
+## Tests
   
-  ## Tests
+N/A
   
-  dsag
+## Questions
   
-  ## Questions
-  
-  Any Questions? Contact me! Github: agd Email: dsg
+Any Questions? Contact me! Github: https://github.com/lapape Email: lapape@gmail.com
